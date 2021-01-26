@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044763349515",
+    "project_id": "shafiapp-1147f",
+    "storage_bucket": "shafiapp-1147f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044763349515:android:ca18bb81b9e5700590ed0e",
+        "android_client_info": {
+          "package_name": "com.example.shafi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044763349515-d0kh4ekmuc93effhagi133gt6eporijn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv-4wPa3CxD5n_4AYW6dTdlRjaI6a1J4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044763349515-d0kh4ekmuc93effhagi133gt6eporijn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
